@@ -1,0 +1,19 @@
+/* global css */
+
+.container-main{
+
+    border: 25px solid gray;
+    padding: 50px 100px;
+    margin-top: 50px;
+}
+
+
+.rightMostPanel{
+    background-color: #fff;
+    width: 100%;
+    padding: 20px;
+    color: gray;
+    border-left: 3px solid red;
+}
+
+
