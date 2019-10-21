@@ -16,4 +16,28 @@
     border-left: 3px solid red;
 }
 
+span {
+    letter-spacing: .15em;
+    font-weight: 600;
+    color: teal;
+}
 
+
+/* buttons annimation */
+button:active{
+    position: relative;
+    animation: mymove 5s ease-out ;
+    transition: width 2s;
+}
+
+@keyframes mymove {
+    from {left: 0px;}
+    to {left: 475px;}
+  }
+
+
+#about{color: #555; line-height: 2em;}
+#hireMe:hover{
+    color:red;
+    font-size: 30px;
+}
