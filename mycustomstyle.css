@@ -16,6 +16,10 @@
     border-left: 3px solid red;
 }
 
+.Headings{text-align: center;}
+.icon-size{font-size: 30px;}
+.icon-size:hover{font-size: 35px; color: red;}
+
 span {
     letter-spacing: .15em;
     font-weight: 600;
